@@ -1,4 +1,4 @@
-#This script was used to performed the statistical analysis on the soil physicochemical parameters
+#This script was used to performed the statistical analysis on the paper "Seasonal changes in a maize-based polyculture of central Mexico reshape the co-occurrence networks of soil bacterial communities"
 
 #Set database
 data = read.csv("nutrientes.csv", header= T, sep = ",")
